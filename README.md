@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">I'm Brazilian from Brazil<br><br>- 📚 I'm currently learning bootstrap<br>- ⚡ In my free time I play soccer</p>
+<p align="left">I'm Brazilian from Brazil<br><br>- 📚 I'm currently learning React JS<br>- ⚡ In my free time I play soccer</p>
 
 ###
 
